@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdrawerlayoutcehua/bdrawerlayoutcehua.iml" filepath="$PROJECT_DIR$/bdrawerlayoutcehua/bdrawerlayoutcehua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnavigationview/bnavigationview.iml" filepath="$PROJECT_DIR$/cnavigationview/bnavigationview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cnavigationview/cnavigationview.iml" filepath="$PROJECT_DIR$/cnavigationview/cnavigationview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dcoordinatorlayou/coordinatorlayou.iml" filepath="$PROJECT_DIR$/dcoordinatorlayou/coordinatorlayou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dcoordinatorlayou/dcoordinatorlayou.iml" filepath="$PROJECT_DIR$/dcoordinatorlayou/dcoordinatorlayou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdrawerlayoucehua/drawerlayoucehua.iml" filepath="$PROJECT_DIR$/bdrawerlayoucehua/drawerlayoucehua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecardview/ecardview.iml" filepath="$PROJECT_DIR$/ecardview/ecardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fappbarlayou/fappbarlayou.iml" filepath="$PROJECT_DIR$/fappbarlayou/fappbarlayou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gcollaspingtoolbarlayou/gcollaspingtoolbarlayou.iml" filepath="$PROJECT_DIR$/gcollaspingtoolbarlayou/gcollaspingtoolbarlayou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialDesign.iml" filepath="$PROJECT_DIR$/materialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zyouhua/zyouhua.iml" filepath="$PROJECT_DIR$/zyouhua/zyouhua.iml" />
+    </modules>
+  </component>
+</project>
